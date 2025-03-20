@@ -4,7 +4,7 @@
 [willworrell.dev](https://willworrell.dev)
 
 ## 👤 About Me:
-I'm a creative, product driven engineer with a particular passion building compelling frontends and intuitive user experiences.
+I'm a creative, product driven engineer with a particular passion for building compelling frontends and intuitive user experiences.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wrw) 
